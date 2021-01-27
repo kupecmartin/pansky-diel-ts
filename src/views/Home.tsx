@@ -6,7 +6,7 @@ interface Props {
 const Home: React.FC<Props> = () => {
 	return (
 		<div>
-			<h1>Home</h1>
+			<h1>Domov</h1>
 		</div>
 	)
 }
